@@ -1,0 +1,11 @@
+.shape{
+    border-left-width:322px ;
+    border-right-width: 322px;
+    border-bottom-width:400px ;
+    position: relative;
+    border-bottom-color:purple ;
+    border-top-color:transparent;
+    border-left-color:transparent;
+    border-right-color:transparent;
+     
+}
